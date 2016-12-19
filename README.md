@@ -6,3 +6,4 @@ Mainly it use Andi alphabet (e. g. see [omniglot page](http://www.omniglot.com/w
 * [je] after a vowel or in the begining of the word should be written as <йе>.
 * as in work by Kh. Salimov uvular voiced stop ɢ is expected to be written in cyrillic as <кгъ>.
 * nasal vowels are writen with tilde above (а̃, я̃) or with 2 (а2, и2).
+* sequence <лъ> by default is ambigues. We decided to use <лъ> to denote lateral fricative [ɬ] and <л.ъ> to denote sequence of the lateral approximant and glottal stop [lʔ].
